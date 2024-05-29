@@ -14,7 +14,7 @@
 body{
   font-family: "Concert One", sans-serif;
 }
-header{
+.header{
   background-color: #553772
   color: #f5487f;
   height: 30%;
@@ -42,6 +42,6 @@ li:hover{
 li a:hover{
   background-color: red;
 }
-#nav{
+.nav{
   background-color: #553772;
 }
