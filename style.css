@@ -1,3 +1,23 @@
+/*Theme Colors:
+  Pinkish red: #f5487f
+  Darker red: #c7417b
+  Red purple: #8f3b76
+  Dark purple: #553772
+  Dark blue: #553772;
+*/
+
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+  font-family: "Concert One", sans-serif;
+}
+header{
+  background-color: #553772
+  color: #f5487f;
+}
 ul {
   background-color: purple;
   color: black;
@@ -20,4 +40,7 @@ li:hover{
 }
 li a:hover{
   background-color: red;
+}
+#nav{
+  background-color: #553772;
 }
