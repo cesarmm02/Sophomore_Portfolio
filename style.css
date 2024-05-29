@@ -15,3 +15,9 @@ a {
 a:visited{
   color: white;
 }
+li:hover{
+  background-color: blue;
+}
+li a:hover{
+  background-color: red;
+}
