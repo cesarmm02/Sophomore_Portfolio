@@ -18,6 +18,8 @@ body{
   background-color: #f5487f;
   color: white;
   height: 30%;
+  text-align: center;
+  font-size: 3em;
 }
 ul {
   background-color: purple;
