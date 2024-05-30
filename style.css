@@ -18,11 +18,9 @@ body{
 .header{
   color: #f5487f;
   height: 30%;
+  width: 100%;
   text-align: center;
   font-size: 3em;
-  background-image: url("images/triang.png");
-  background-repeat: no-repeat;
-  background: url("images/triang.png") contain;
 }
 ul {
   background-color: #553772;
@@ -62,4 +60,7 @@ li a {
 .nav{
   background-color: #553772;
   font-size: 1.5em;
+}
+.content {
+  background-color: #8f3b76;
 }
