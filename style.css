@@ -25,9 +25,13 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  position: sticky;
+  top: 0;
 }
 li {
   display: inline;
+  float: left;
 }
 a {
   text-decoration: none;
@@ -36,12 +40,17 @@ a {
 a:visited{
   color: white;
 }
-li:hover{
-  background-color: blue;
-}
 li a:hover{
   background-color: red;
 }
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 .nav{
   background-color: #553772;
 }
