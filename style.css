@@ -21,6 +21,8 @@ body{
   text-align: center;
   font-size: 3em;
   background-image: url("images/triang.png");
+  background-repeat: no-repeat;
+  background: url(frog.jpg) contain;
 }
 ul {
   background-color: #553772;
