@@ -3,7 +3,7 @@
   Darker red: #c7417b
   Red purple: #8f3b76
   Dark purple: #553772
-  Dark blue: #553772;
+  Dark blue: #1f306e;
 */
 
 .concert-one-regular {
@@ -13,17 +13,17 @@
 }
 body{
   font-family: "Concert One", sans-serif;
+  background-color: #1f306e;
 }
 .header{
-  background-color: #f5487f;
-  color: white;
+  color: #f5487f;
   height: 30%;
   text-align: center;
   font-size: 3em;
 }
 ul {
-  background-color: purple;
-  color: black;
+  background-color: #553772;
+  color: #c7417b;
   list-style-type: none;
   margin: 0;
   padding: 0;
