@@ -22,7 +22,7 @@ body{
   font-size: 3em;
   background-image: url("images/triang.png");
   background-repeat: no-repeat;
-  background: url(frog.jpg) contain;
+  background: url("images/triang.png") contain;
 }
 ul {
   background-color: #553772;
