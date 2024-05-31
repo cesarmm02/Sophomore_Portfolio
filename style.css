@@ -15,7 +15,7 @@ body{
   font-family: "Concert One", sans-serif;
   background-color: #1f306e;
 }
-header{
+.header{
   position: absolute;
   margin-top: 0px;
   background-image: url("images/triang.png");
