@@ -16,6 +16,7 @@ body{
   background-color: #1f306e;
 }
 header{
+  position: absolute;
   margin-top: 0px;
   background-image: url("images/triang.png");
   background-repeat: no-repeat;
@@ -62,10 +63,12 @@ li a {
 }
 
 .nav{
+  position: relative;
   background-color: #553772;
   font-size: 1.5em;
 }
 .content {
+  position: relative;
   border: 2px solid #8f3b76;
   border-radius: 12px;
   margin: 10px;
