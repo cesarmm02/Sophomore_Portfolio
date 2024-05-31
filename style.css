@@ -17,7 +17,7 @@ body{
 }
 .header{
   color: #f5487f;
-  height: 30%;
+  height: 500px;
   width: 100%;
   text-align: center;
   font-size: 3em;
@@ -63,4 +63,5 @@ li a {
 }
 .content {
   background-color: #8f3b76;
+  height: 700px
 }
