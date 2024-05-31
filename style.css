@@ -17,6 +17,8 @@ body{
 }
 .header{
   background-image: url("images/triang.png");
+  background-repeat: no-repeat;
+  background-size: contain;
   color: #f5487f;
   height: 500px;
   width: 100%;
