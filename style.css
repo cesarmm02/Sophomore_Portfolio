@@ -64,7 +64,7 @@ li a {
   font-size: 4em;
 }
 .nav{
-  border-style: none;
+  border: 0px solid #553772;
   border-radius: 12px;
   margin-top: 10px;
   position: relative;
@@ -81,7 +81,7 @@ li a {
   height: 700px;
 }
 .title{
-  position: absolute;
+  position: relative;
   top: 50%;
   width: 100%;
   text-align: center;
