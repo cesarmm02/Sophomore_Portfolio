@@ -64,6 +64,8 @@ li a {
   font-size: 4em;
 }
 .nav{
+  border-style: none;
+  border-radius: 12px;
   margin-top: 10px;
   position: relative;
   background-color: #553772;
@@ -78,7 +80,7 @@ li a {
   background-color: #8f3b76;
   height: 700px;
 }
-h1{
+title{
   position: absolute;
   top: 50%;
   width: 100%;
