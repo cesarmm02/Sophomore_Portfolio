@@ -12,11 +12,12 @@
   font-style: normal;
 }
 body{
+  position: aboslute
   font-family: "Concert One", sans-serif;
   background-color: #1f306e;
 }
 .header{
-  position: fixed;
+  position: relative;
   margin-top: 0px;
   background-image: url("images/triang.png");
   background-repeat: no-repeat;
@@ -76,4 +77,10 @@ li a {
   padding: 20px 24px;
   background-color: #8f3b76;
   height: 700px;
+}
+h1{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
 }
