@@ -16,18 +16,6 @@ body{
   font-family: "Concert One", sans-serif;
   background-color: #1f306e;
 }
-.header{
-  position: relative;
-  margin-top: 0px;
-  background-image: url("images/triang.png");
-  background-repeat: no-repeat;
-  background-size: 100% 650px;
-  color: #f5487f;
-  height: 500px;
-  width: 100%;
-  text-align: center;
-  font-size: 4em;
-}
 ul {
   background-color: #553772;
   color: #c7417b;
@@ -63,8 +51,20 @@ li a {
 .active{
    background-color: #8f3b76;
 }
-
+.header{
+  position: relative;
+  margin-top: 0px;
+  background-image: url("images/triang.png");
+  background-repeat: no-repeat;
+  background-size: 100% 500px;
+  color: #f5487f;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  font-size: 4em;
+}
 .nav{
+  margin-top: 10px;
   position: relative;
   background-color: #553772;
   font-size: 1.5em;
