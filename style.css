@@ -67,7 +67,7 @@ li a {
   border: 0px solid #553772;
   border-radius: 12px;
   margin-top: 10px;
-  position: relative;
+  position: sticky;
   background-color: #553772;
   font-size: 1.5em;
 }
