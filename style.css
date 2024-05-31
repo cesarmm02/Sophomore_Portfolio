@@ -16,11 +16,12 @@ body{
   background-color: #1f306e;
 }
 .header{
+  background-image: url("images/triang.png");
   color: #f5487f;
   height: 500px;
   width: 100%;
   text-align: center;
-  font-size: 3em;
+  font-size: 4em;
 }
 ul {
   background-color: #553772;
@@ -62,6 +63,8 @@ li a {
   font-size: 1.5em;
 }
 .content {
+  margin: 10px;
+  padding: 14px 16px;
   background-color: #8f3b76;
-  height: 700px
+  height: 700px;
 }
