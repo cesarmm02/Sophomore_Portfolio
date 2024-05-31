@@ -81,9 +81,10 @@ li a {
   background-color: #8f3b76;
   height: 700px;
 }
-h1{
+.title{
   position: absolute;
   top: 25%;
   width: 100%;
   text-align: center;
+  text-shadow: 2px 2px #8f3b76;
 }
