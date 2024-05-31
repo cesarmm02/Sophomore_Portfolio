@@ -16,7 +16,6 @@ body{
   background-color: #1f306e;
 }
 header{
-  position: absolute;
   margin-top: 0px;
   background-image: url("images/triang.png");
   background-repeat: no-repeat;
