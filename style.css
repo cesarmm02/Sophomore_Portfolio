@@ -38,6 +38,8 @@ a:visited{
   color: white;
 }
 li a:hover{
+  border: 0px solid #553772;
+  border-radius: 12px;
   background-color: #f5487f;
 }
 li a {
@@ -52,6 +54,8 @@ li a {
    background-color: #8f3b76;
 }
 .header{
+  border: 0px solid #553772;
+  border-radius: 12px;
   position: relative;
   margin-top: 0px;
   background-image: url("images/triang.png");
