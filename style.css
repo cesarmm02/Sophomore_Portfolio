@@ -45,6 +45,8 @@ li a:hover{
 li a {
   transition: background-color 1s;
   display: block;
+  border: 0px solid #553772;
+  border-radius: 12px;
   color: white;
   text-align: center;
   padding: 14px 16px;
