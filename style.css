@@ -110,10 +110,6 @@ li a {
   border-radius: 12px;
   margin-top: 10px;
   padding: 20px 24px;
-  background: linear-gradient(135deg, #1f306e80 50%, transparent 0),linear-gradient(-135deg, #1f306e80 50%, transparent 0);
-  background-size: 6em 6em;
-  background-color: #553772;
-  opacity: 0.3;
   background-color: #8f3b76;
 }
 .title{
