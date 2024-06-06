@@ -116,6 +116,8 @@ li a {
   opacity: 1;*/
   background-image: url("images/back.gif");
   background-color: #8f3b76;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .title{
   position: absolute;
