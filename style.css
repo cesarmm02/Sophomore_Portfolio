@@ -6,11 +6,34 @@
   Dark blue: #1f306e;
 */
 
+/*google fonts*/
 .concert-one-regular {
   font-family: "Concert One", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.mansalva-regular {
+  font-family: "Mansalva", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.wallpoet-regular {
+  font-family: "Wallpoet", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*end of google fonts*/
+
 body{
   position: aboslute;
   font-family: "Concert One", sans-serif;
@@ -81,6 +104,7 @@ li a {
   padding: 5px 5px;
 }
 .content {
+  color: white;
   position: relative;
   border: 2px solid #8f3b76;
   border-radius: 12px;
@@ -95,4 +119,10 @@ li a {
   width: 100%;
   text-align: center;
   text-shadow: 2px 2px #8f3b76;
+}
+.content h2{
+  font-size: 3em;
+}
+.content h3{
+  font-size: 2em;
 }
