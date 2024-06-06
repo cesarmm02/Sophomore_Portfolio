@@ -110,14 +110,11 @@ li a {
   border-radius: 12px;
   margin-top: 10px;
   padding: 20px 24px;
-  /*background: linear-gradient(45deg, #1f306e80 20%, transparent 21%, transparent 79%, #1f306e80 80%) , linear-gradient(315deg, #1f306e80 20%, transparent 21%), linear-gradient(45deg, #1f306e 20%, transparent 21%), linear-gradient(315deg, #1f306e 20%, transparent 21%, transparent 79%, #1f306e80 80%);
-  background-size: 3em 3em;
+  background: linear-gradient(135deg, #1f306e80 50%, transparent 0),linear-gradient(-135deg, #1f306e80 50%, transparent 0);
+  background-size: 6em 6em;
   background-color: #553772;
-  opacity: 1;*/
-  background-image: url("images/back.gif");
+  opacity: 1;
   background-color: #8f3b76;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 .title{
   position: absolute;
