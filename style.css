@@ -125,3 +125,7 @@ li a {
 .content h3{
   font-size: 2em;
 }
+.desc{
+  position: relative;
+  float: left;
+}
