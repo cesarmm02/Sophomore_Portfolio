@@ -39,7 +39,8 @@ body{
   background-color: #1f306e;
 }
 hr{
-  background-color: #f5487f; 
+  background-color: #f5487f;
+  height: 1px;
 }
 ul {
   background-color: #553772;
