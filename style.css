@@ -142,7 +142,7 @@ li a {
   margin-right: auto;
 }
 .drop{
-  height: 20px;
+  height: 50px;
   width: 80%;
   position: relative;
   left: 10%;
@@ -153,6 +153,6 @@ li a {
   padding-right: 5px;
 }
 .drop:hover{
-  height: 365px;
+  height: 90%;
   z-index: 1;
 }
