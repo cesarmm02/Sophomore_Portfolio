@@ -140,3 +140,18 @@ li a {
   margin-left: auto;
   margin-right: auto;
 }
+.drop{
+  height: 20px;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  transition: height 3s;
+  display: block;
+  overflow: hidden;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.drop:hover{
+  height: 365px;
+  z-index: 1;
+}
