@@ -66,7 +66,10 @@ li a:hover{
   background-color: #f5487f;
 }
 div{
-  background-color: #553772
+  background-color: #553772;
+  border: 0px solid #553772;
+  border-radius: 12px;
+  text-align: center; 
 }
 li a {
   transition: background-color 1s;
