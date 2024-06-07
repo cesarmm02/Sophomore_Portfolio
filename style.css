@@ -153,6 +153,6 @@ li a {
   padding-right: 5px;
 }
 .drop:hover{
-  height: 90%;
+  height: 50%;
   z-index: 1;
 }
