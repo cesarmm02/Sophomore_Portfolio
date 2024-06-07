@@ -126,6 +126,5 @@ li a {
   font-size: 2em;
 }
 .desc{
-  position: relative;
-  float: left;
+  float: right;
 }
