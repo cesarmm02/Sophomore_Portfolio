@@ -39,6 +39,9 @@ body{
   font-family: "Concert One", sans-serif;
   background-color: #1f306e;
 }
+hr{
+  background-color: #f5487f; 
+}
 ul {
   background-color: #553772;
   color: #c7417b;
