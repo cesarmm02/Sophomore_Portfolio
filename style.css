@@ -66,6 +66,7 @@ li a:hover{
   background-color: #f5487f;
 }
 div{
+  padding: 14px 16px;
   background-color: #553772;
   border: 0px solid #553772;
   border-radius: 12px;
